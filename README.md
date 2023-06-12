@@ -1,5 +1,15 @@
 #### VADER_Sentiment_Analysis
-Performing Sentiment Analysis using the VADER (Valence Aware Dictionary and sEntiment Reasoner) lexicon from the NLTK library
+*Performing Sentiment Analysis using the VADER (Valence Aware Dictionary and sEntiment Reasoner) lexicon from the NLTK library*
+
+*VADER (Valence Aware Dictionary for Sentiment Reasoning) is a specialized model created for analyzing the sentiment of text. It considers both the polarity (positive or negative) and intensity (strength) of emotions expressed within the text. VADER is a component of the NLTK (Natural Language Toolkit) package and is widely employed for sentiment analysis purposes.*
+
+*VADER sentiment analysis relies on a predefined dictionary that associates words with sentiment scores, which indicate the level of positive or negative sentiment associated with each word. By assessing the sentiment scores of individual words and considering their context, VADER can determine the overall sentiment conveyed by a text.*
+
+*For example, words such as "love," "enjoy," "happy," and "like" typically indicate a positive sentiment, while words like "hate," "dislike," and "sad" convey a negative sentiment. VADER is also capable of understanding negation and modifiers, enabling it to interpret phrases like "did not love" as expressing a negative sentiment.*
+
+*It is important to note that VADER does not aim to classify text as objective or subjective, or to determine whether a statement is a factual claim or an opinion. Its primary objective is to identify and classify the sentiment expressed in a text as positive, negative, or neutral.*
+
+*By utilizing VADER in sentiment analysis, we can gain valuable insights into the sentiment expressed in textual data, helping us comprehend the overall emotional tone and opinion conveyed by the text.*
 
 > *Sentiment Analysis of Newspaper Headlines and Descriptions*
 
